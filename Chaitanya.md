@@ -14,3 +14,14 @@
          [https://codeforces.com/contest/1/submission/220987201]
         - Learnt how to pass a 2D array into a function using pointer.
         - Watched 1st video of STL from LUV Youtube channel
+
+### Day 2
+ [08] [30], 2023
+
+        - Question 1 : String Task
+         https://codeforces.com/contest/118/submission/221042606
+        - Question 2 : Young Physicist
+         https://codeforces.com/contest/69/submission/221082323
+        - Question 3 : Beautiful Matrix
+         https://codeforces.com/contest/263/submission/221168317
+        - Watched 2nd video of STL from Luv Youtube channel.
