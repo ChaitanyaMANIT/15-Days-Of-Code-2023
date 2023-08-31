@@ -25,3 +25,14 @@
         - Question 3 : Beautiful Matrix
          https://codeforces.com/contest/263/submission/221168317
         - Watched 2nd video of STL from Luv Youtube channel.
+
+### Day 3
+ [08] [31], 2023
+
+        - Question 1 : Football
+         [https://codeforces.com/contest/96/submission/221272721]
+        - Question 2 : Expression (Submission failed)
+         [https://codeforces.com/contest/479/submission/221365574]
+        - Watched 3rd video of STL from Luv Youtube channel.
+          Implementation - [https://pastebin.com/FwdvKnEH]
+         
