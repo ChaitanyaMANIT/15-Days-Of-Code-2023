@@ -35,4 +35,15 @@
          [https://codeforces.com/contest/479/submission/221365574]
         - Watched 3rd video of STL from Luv Youtube channel.
           Implementation - [https://pastebin.com/FwdvKnEH]
+
+### Day 4
+ [09] [01], 2023
+
+        - Question 1 : IQ Test
+         [https://codeforces.com/contest/25/submission/221466702]
+        - Question 2 : Lucky Division
+         [https://codeforces.com/contest/122/submission/221481136]
+        - Watched 4th and 5th video of STL from Luv Youtube channel.
+          Implementation of 4th video - [https://pastebin.com/GSctdYLP]
+          Implementation of 5th video - [https://pastebin.com/CnfRt1ui]
          
