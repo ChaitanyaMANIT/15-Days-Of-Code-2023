@@ -47,3 +47,13 @@
           Implementation of 4th video - [https://pastebin.com/GSctdYLP]
           Implementation of 5th video - [https://pastebin.com/CnfRt1ui]
          
+### Day 5
+ [09] [02], 2023
+
+        - Question 1 : Boy Or Girl
+         [https://codeforces.com/contest/236/submission/221603244]
+        - Question 2 : Keep It Beautiful (Submission failed)
+         [https://codeforces.com/contest/1841/submission/221523906]
+        - Watched 6th and 7th video of STL from Luv Youtube channel.
+          Implementation of 6th video - [https://pastebin.com/e3736mvg]
+          Implementation of 7th video - [https://pastebin.com/hCvBXaqG]
