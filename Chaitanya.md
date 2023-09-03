@@ -50,7 +50,7 @@
 ### Day 5
  [09] [02], 2023
 
-        - Question 1 : Boy Or Girl
+        - Question 1 : Boy And Girl
          [https://codeforces.com/contest/236/submission/221603244]
         - Question 2 : Keep It Beautiful (Submission failed)
          [https://codeforces.com/contest/1841/submission/221523906]
