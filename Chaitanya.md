@@ -62,3 +62,8 @@
     September 03 ,2023
 
         - Can't able to study today as I came back to Bhopal from home town (12 hrs long journey) 
+
+### Day 7
+    September 04 ,2023
+
+        - Can't able to study today because I was having fever, cough and cold.
