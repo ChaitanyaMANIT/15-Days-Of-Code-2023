@@ -67,3 +67,12 @@
     September 04 ,2023
 
         - Can't able to study today because I was having fever, cough and cold.
+
+### Day 8
+    September 05 ,2023
+
+        - Question 1 : Program to perform insertion,deletion,searching in a linked list(DSA Lab task)
+         [https://pastebin.com/WwqZYvxR]
+        - Question 1 : Program to reverse a linked list(DSA Lab task)
+         [https://pastebin.com/nT5TDvTV]
+        - Studied OOPs : constructor, data abstraction, inheritance, encapsulation
