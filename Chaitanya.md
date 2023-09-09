@@ -85,3 +85,15 @@
          [https://pastebin.com/3vfrFPR7]
          [https://pastebin.com/8AdvXumH]
          [https://pastebin.com/QLwRGAPh]
+
+### Day 10
+    September 07 ,2023
+
+        - Watched 8th video of STL from Luv Youtube channel.
+
+### Day 11
+    September 08 ,2023
+
+        - Watched 1 hr of MySQL video of DBMS from Apna College Youtube channel.
+          
+        
