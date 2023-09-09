@@ -95,5 +95,11 @@
     September 08 ,2023
 
         - Watched 1 hr of MySQL video of DBMS from Apna College Youtube channel.
+
+### Day 12
+    September 09 ,2023
+
+        - Watched 2nd half hr of MySQL video of DBMS from Apna College Youtube channel.
+         (Less study because I'd chess tournament today at Sage International School.)
           
         
