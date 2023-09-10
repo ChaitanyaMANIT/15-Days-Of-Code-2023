@@ -102,4 +102,14 @@
         - Watched 2nd half hr of MySQL video of DBMS from Apna College Youtube channel.
          (Less study because I'd chess tournament today at Sage International School.)
           
+### Day 13
+    September 10 ,2023
+
+        - - Question 1 : Stones of the Table
+         [https://codeforces.com/contest/266/submission/222680917]
+        - Question 2 : Bit++
+         [https://codeforces.com/contest/282/submission/222805314]
+        - Question 3 : Petya and Strings
+         [https://codeforces.com/contest/112/submission/222809257]
+        - PPL Assignment 1 and 2 completed.
         
