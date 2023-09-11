@@ -112,3 +112,8 @@
         - Question 3 : Petya and Strings
          [https://codeforces.com/contest/112/submission/222809257]
         - PPL Assignment 1 and 2 completed.
+
+### Day 14
+    September 11 ,2023
+
+        - Watched 9th and 10th video of STL from Luv Youtube channel.
