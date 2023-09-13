@@ -118,7 +118,7 @@
 
         - Watched 9th and 10th video of STL from Luv Youtube channel.
 
-### Day 14
+### Day 15
     September 12 ,2023
 
         - Watched 11th and 12th video of STL from Luv Youtube channel.
